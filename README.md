@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mo-am1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amir" height="30" width="40" /></a>
-<a href="https://fb.com/MOAM1R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed amir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mo-am1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo-am1r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mo-am1r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amir" height="30" width="40" /></a>
+<a href="https://fb.com/MOAM1R" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed amir" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mo-am1r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo-am1r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
