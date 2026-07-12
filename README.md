@@ -1,31 +1,241 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
-<h3 align="center">A student at Cairo University from Egypt</h3>
-<img width = "400" align = "right" alt = "Coding" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-am1r&label=Profile%20views&color=0e75b6&style=flat" alt="mo-am1r" /> </p>
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" alt="Waving hand" />
+  Hi, I'm Mohamed Amir
+</h1>
 
-- 🔭 I’m currently working on **Portfolio**
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=760&lines=Junior+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Building+scalable%2C+tested%2C+maintainable+mobile+apps"
+    alt="Typing animation"
+  />
+</a>
 
-- 🌱 I’m currently learning **Flutter, Node.js, PHP**
-
-- 💬 Ask me about **C++, JAVA, HTML5**
-
-- 📫 How to reach me **me.mohamed.amir@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mo-am1r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amir" height="30" width="40" /></a>
-<a href="https://fb.com/MOAM1R" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed amir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mo-am1r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mo-am1r" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/MO-AM1R">
+    <img src="https://komarev.com/ghpvc/?username=MO-AM1R&label=Profile%20Views&color=3ddc84&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/mo-am1r">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Amir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedamir5050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohamedamir5050%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.leetcode.com/mo-am1r">
+    <img src="https://img.shields.io/badge/LeetCode-mo--am1r-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-am1r&show_icons=true&locale=en&layout=compact" alt="mo-am1r" /></p>
+<img
+  align="right"
+  width="360"
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  alt="Developer coding animation"
+/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-am1r&show_icons=true&locale=en" alt="mo-am1r" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-am1r&" alt="mo-am1r" /></p>
+- 📱 Junior **Android Developer** focused on building scalable, high-performance mobile applications.
+- 🎓 **B.Sc. in Computer Science**, Cairo University — Excellent with Honors.
+- 🏫 Currently pursuing the **9-Month Professional Diploma in Native Mobile Application Development** at ITI, Smart Village.
+- 🧱 I work with **Kotlin, Jetpack Compose, Clean Architecture, MVVM/MVI, Coroutines, Flow, Room, Retrofit, Hilt, and Koin**.
+- 🧪 I care about maintainability, SOLID principles, clean code, unit testing, and reliable application architecture.
+- 🌍 Based in **Giza, Egypt**.
+- 👨‍🏫 Previously worked as a **Flutter Instructor and Content Creator**, delivering technical sessions and mentoring students.
+- 🚀 Currently improving my skills in **Kotlin Multiplatform, advanced Android testing, and CI/CD**.
+- 💬 Ask me about **Android development, Kotlin, Jetpack Compose, architecture patterns, networking, local storage, and testing**.
+
+<br clear="right"/>
+
+## 🧰 Technology Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,dart,flutter,swift,c,cpp,firebase,sqlite,git,github,githubactions,figma"
+    alt="Technology icons"
+  />
+</p>
+
+| Area | Technologies & Skills |
+|---|---|
+| **Core Engineering** | Object-Oriented Programming, Data Structures, Algorithms, Functional Programming, SOLID Principles, Design Patterns, Clean Code, Problem Solving |
+| **Languages** | Kotlin, Java, Dart, C, C++, Swift |
+| **Android UI** | Jetpack Compose, Material Design, XML Views, View Binding |
+| **Android SDK** | Navigation Component, ViewModel, LiveData, WorkManager, AlarmManager, Notifications |
+| **Maps & Location** | Mapbox SDK, Google Maps |
+| **Architecture** | Clean Architecture, MVVM, MVI, MVP, MVC, Repository Pattern |
+| **Concurrency** | Kotlin Coroutines, Flow API, RxJava |
+| **Networking** | Retrofit, Ktor, REST APIs, JSON, GSON |
+| **Local Storage** | Room Database, SQLite, SharedPreferences, Core Data |
+| **Cloud & Backend Services** | Firebase |
+| **Dependency Injection** | Hilt, Koin |
+| **Testing** | Unit Testing, JUnit, MockK |
+| **Cross-Platform** | Kotlin Multiplatform, Flutter, Bloc/Cubit |
+| **iOS & Desktop** | Swift, XIB, Core Data, JavaFX, Java Sockets |
+| **CI/CD & Tools** | Git, GitHub, GitHub Actions, Gradle, Android Studio, Figma |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM%20%7C%20MVI-6C63FF?style=for-the-badge" alt="MVVM and MVI" />
+  <img src="https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Coroutines" />
+  <img src="https://img.shields.io/badge/Flow%20API-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Flow" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room Database" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor" />
+  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Koin-EA4AAA?style=for-the-badge" alt="Koin" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/MockK-EF4B4B?style=for-the-badge" alt="MockK" />
+</p>
+
+## 🌟 Professional Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team%20Leadership-1F6FEB?style=flat-square" alt="Team Leadership" />
+  <img src="https://img.shields.io/badge/Communication-1F6FEB?style=flat-square" alt="Communication" />
+  <img src="https://img.shields.io/badge/Teamwork-1F6FEB?style=flat-square" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-3DDC84?style=flat-square" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Time%20Management-3DDC84?style=flat-square" alt="Time Management" />
+  <img src="https://img.shields.io/badge/Adaptability-3DDC84?style=flat-square" alt="Adaptability" />
+  <img src="https://img.shields.io/badge/Attention%20to%20Detail-3DDC84?style=flat-square" alt="Attention to Detail" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🌦️ [Atmos — Weather Forecast App](https://github.com/MO-AM1R/atmos)
+
+A modern Android weather application providing real-time weather data, five-day forecasts, location selection, saved locations, and scheduled weather alerts.
+
+**Built with:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Coroutines, Google Maps, AlarmManager, WorkManager, MockK, JUnit, Unit Testing.
+
+---
+
+### 🍽️ [Yumi — Meal Planning App](https://github.com/MO-AM1R/yumi)
+
+A meal-planning application supporting meal discovery, customized weekly planning, offline storage, authentication, and cross-device synchronization.
+
+**Built with:** Java, MVP, Feature-Based Architecture, Room, Firebase, Retrofit, REST APIs, RxJava.
+
+---
+
+### 🚚 Cargo — Logistics & Transportation Platform
+
+Led the development of a logistics platform for delivery requests and trip management, featuring real-time tracking, QR-based handoff, and in-app chat.
+
+**Built with:** Kotlin, Jetpack Compose, MVVM/MVI, Clean Architecture, Ktor, Coroutines, Flow API, Koin, REST APIs.
+
+---
+
+### 🎮 Tic-Tac-Toe — Multiplayer Game
+
+A networked multiplayer desktop game with real-time data exchange, concurrent client connections, game-room management, and live server statistics.
+
+**Built with:** Java, Java Sockets, JavaFX, SQL.
+
+---
+
+### ⚽ Fantazy — Sports Tracking App
+
+An iOS sports application displaying leagues, matches, and team information, with local favorites and offline persistence.
+
+**Built with:** Swift, MVP, Clean Architecture, REST APIs, XIB, Core Data.
+
+---
+
+### ♻️ Tradify — AI-Powered Marketplace
+
+Graduation project enabling users to swap, sell, rent, and donate items through a cross-platform mobile marketplace.
+
+**Built with:** Flutter, Firebase, REST APIs.
+
+## 💼 Experience
+
+### Flutter Instructor & Content Creator  
+**Go Academy Platform — Remote** | June 2024 – September 2025
+
+- Delivered structured Flutter training sessions and mentored students.
+- Created and managed technical educational content and learning materials.
+- Helped students track progress and strengthen practical development skills.
+
+## 🎓 Education
+
+### Information Technology Institute — ITI  
+**9-Month Professional Diploma, Native Mobile Application Development**  
+October 2025 – Present
+
+### Cairo University  
+**B.Sc. in Computer Science — Excellent with Honors**  
+September 2021 – May 2025
+
+## 📜 Training & Certifications
+
+- **Android Development using Kotlin** — Information Technology Institute (ITI), 122 hours, August 2024.
+- **Mobile Application Development using Flutter** — Information Technology Institute (ITI), 96 hours, August 2023.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=MO-AM1R&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+  alt="Mohamed Amir GitHub statistics"
+/>
+
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=MO-AM1R&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+  alt="Most used languages"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=MO-AM1R&theme=transparent&hide_border=true"
+  alt="GitHub contribution streak"
+/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MO-AM1R&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/MO-AM1R/MO-AM1R/output/github-contribution-grid-snake.gif"
+  alt="Snake animation eating Mohamed Amir's GitHub contributions"
+/>
+
+</div>
+
+> The animation is generated automatically by the workflow in `.github/workflows/generate-snake.yml`.
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mo-am1r">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedamir5050@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/MO-AM1R/my-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
+  </a>
+  <a href="https://www.leetcode.com/mo-am1r">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<div align="center">
+
+### “Build software that is clean enough to maintain and useful enough to matter.”
+
+</div>
