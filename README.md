@@ -226,8 +226,10 @@ September 2021 – May 2025
   <a href="mailto:mohamedamir5050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://mohamedamir.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
+  <a href="https://mohamedamir.netlify.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Mohamed Amir Portfolio"/>
   </a>
   <a href="https://www.leetcode.com/mo-am1r">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
