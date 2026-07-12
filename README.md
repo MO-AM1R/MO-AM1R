@@ -122,7 +122,7 @@ A meal-planning application supporting meal discovery, customized weekly plannin
 
 ---
 
-### 🚚 Cargo — Logistics & Transportation Platform
+### 🚚 [Cargo — Logistics & Transportation Platform](https://github.com/Cargo-Org)
 
 Led the development of a logistics platform for delivery requests and trip management, featuring real-time tracking, QR-based handoff, and in-app chat.
 
@@ -130,7 +130,7 @@ Led the development of a logistics platform for delivery requests and trip manag
 
 ---
 
-### 🎮 Tic-Tac-Toe — Multiplayer Game
+### 🎮 [Tic-Tac-Toe — Multiplayer Game](https://github.com/Tic-Tac-Toe-Java-Org)
 
 A networked multiplayer desktop game with real-time data exchange, concurrent client connections, game-room management, and live server statistics.
 
@@ -138,7 +138,7 @@ A networked multiplayer desktop game with real-time data exchange, concurrent cl
 
 ---
 
-### ⚽ Fantazy — Sports Tracking App
+### ⚽ [Fantazy — Sports Tracking App](https://github.com/FantazyArena)
 
 An iOS sports application displaying leagues, matches, and team information, with local favorites and offline persistence.
 
@@ -146,7 +146,7 @@ An iOS sports application displaying leagues, matches, and team information, wit
 
 ---
 
-### ♻️ Tradify — AI-Powered Marketplace
+### ♻️ [Tradify — AI-Powered Marketplace](https://github.com/Tradify-GP)
 
 Graduation project enabling users to swap, sell, rent, and donate items through a cross-platform mobile marketplace.
 
