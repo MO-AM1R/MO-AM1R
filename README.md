@@ -226,7 +226,7 @@ September 2021 – May 2025
   <a href="mailto:mohamedamir5050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/MO-AM1R/my-portfolio">
+  <a href="https://mohamedamir.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
   </a>
   <a href="https://www.leetcode.com/mo-am1r">
