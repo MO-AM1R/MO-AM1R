@@ -7,7 +7,7 @@
 
 <a href="https://readme-typing-svg.demolab.com">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=760&lines=Junior+Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Building+scalable%2C+tested%2C+maintainable+mobile+apps"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=760&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Building+scalable%2C+tested%2C+maintainable+mobile+apps"
     alt="Typing animation"
   />
 </a>
