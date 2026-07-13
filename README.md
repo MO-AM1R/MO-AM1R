@@ -226,7 +226,7 @@ September 2021 – May 2025
   <a href="mailto:mohamedamir5050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://mohamedamir.netlify.app/" target="_blank">
+  <a href="https://mo-am1r.vercel.app" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
       alt="Mohamed Amir Portfolio"/>
